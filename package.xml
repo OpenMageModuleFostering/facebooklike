@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<package>
+    <name>facebooklike</name>
+    <version>0.1.0</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">Open Software License</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>This extension will show facebook like widget on the right section of the page.</summary>
+    <description>&lt;p&gt;This extension will show you facebook like widget on the right section of the page.&lt;/p&gt;&#xD;
+&#xD;
+&lt;h2&gt; Features &lt;/h2&gt;&#xD;
+&lt;p&gt;No core file changed.&lt;/p&gt;&#xD;
+&lt;p&gt;A small useful extension to show facebook like on the our website. &lt;/p&gt;&#xD;
+&lt;p&gt; Works on Magento 1.6 and above. &lt;/p&gt;&#xD;
+&#xD;
+&lt;h2&gt; Configuration: &lt;/h2&gt;&#xD;
+    &lt;p&gt; Admin -&gt;  System -&gt; Configuration -&gt; facebook Like Setting -&gt; Facebook URL &#xD;
+    &lt;p /&gt; Please put facebook URl like https://www.facebook.com/BluethinkIT &lt;/p&gt;&#xD;
+&lt;h1&gt; &#xD;
+</description>
+    <notes>This extension will show facebook like widget</notes>
+    <authors><author><name>BluethinkIT</name><user>Bluethink</user><email>pramodgupta.bt@gmail.com</email></author></authors>
+    <date>2014-09-25</date>
+    <time>14:34:04</time>
+    <contents><target name="magecommunity"><dir name="Bluethink"><dir name="Facebooklike"><dir name="Helper"><file name="Data.php" hash="d6fa3e9ca179605879c9b0df24d000b6"/></dir><dir name="etc"><file name="config.xml" hash="886a0d0d4dead0146481aa4b65a0180b"/><file name="system.xml" hash="0e311b5050853dbe875c16e1044ea096"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Bluethink_Facebooklike.xml" hash="d39fb23059a14b1c86807c8024b6e890"/></dir></target><target name="magedesign"><dir name="frontend"><dir name="default"><dir name="default"><dir name="layout"><file name="facebooklike.xml" hash="bbc8127c631771a1810114f8b743e19b"/></dir><dir name="template"><dir name="facebooklike"><file name="facebooklike.phtml" hash="5adc54f2ab4ae4de49a245f8cfd428ef"/></dir></dir></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php></required></dependencies>
+</package>

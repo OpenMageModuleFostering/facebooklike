@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Bluethink_Facebooklike>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Bluethink_Facebooklike>
+    </modules>
+</config>

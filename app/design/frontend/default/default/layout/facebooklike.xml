@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<layout>
+    <default>
+        <!-- this file call from right side -->
+        <reference name="right">
+            <block type="core/template" name="facebooklike" template="facebooklike/facebooklike.phtml"/>
+        </reference>
+        <reference name="right">
+            <remove name="cart_sidebar"/>
+        </reference>
+    </default>
+</layout>
