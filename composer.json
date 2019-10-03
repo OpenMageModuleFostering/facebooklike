@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/facebooklike",
+    "name": "openmage-module-fostering\/facebooklike",
     "type": "magento-module",
-    "license": "Open-Software-License",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "This extension will show facebook like widget on the right section of the page.",
     "authors": [
